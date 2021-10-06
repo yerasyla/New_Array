@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yerasylamanbek/CLionProjects/L5/New_array.h
+algorithm
+-
+iostream
+-
+
+/Users/yerasylamanbek/CLionProjects/L5/main.cpp
+iostream
+-
+vector
+-
+ctime
+-
+New_array.h
+/Users/yerasylamanbek/CLionProjects/L5/New_array.h
+
